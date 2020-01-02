@@ -2,6 +2,9 @@
 USER-AGENT,MApi*
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
+# Apple
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
 # Ali
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao

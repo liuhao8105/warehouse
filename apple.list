@@ -1,11 +1,4 @@
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,blobstore.apple.com
-# YouTube
-DOMAIN,youtubei.googleapis.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtu.be
-USER-AGENT,*YouTube*
-USER-AGENT,com.google.ios.youtube*
+

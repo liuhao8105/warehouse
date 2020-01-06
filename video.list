@@ -1,13 +1,3 @@
-# Netflix
-USER-AGENT,Argo*
-DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,netflix.com
-DOMAIN-SUFFIX,netflix.net
-DOMAIN-SUFFIX,nflxext.com
-DOMAIN-SUFFIX,nflximg.com
-DOMAIN-SUFFIX,nflximg.net
-DOMAIN-SUFFIX,nflxso.net
-DOMAIN-SUFFIX,nflxvideo.net
 # Prime Video
 USER-AGENT,Prime%20Video*
 USER-AGENT,InstantVideo.US*
@@ -20,3 +10,11 @@ DOMAIN-SUFFIX,llnwd.net
 USER-AGENT,mytv*
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
+# YouTube
+DOMAIN,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtu.be
+USER-AGENT,*YouTube*
+USER-AGENT,com.google.ios.youtube*

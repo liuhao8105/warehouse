@@ -74,6 +74,7 @@ IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.144.0/21,no-resolve
 # > Other
 DOMAIN-SUFFIX,4shared.com
+DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,520cc.cc
 DOMAIN-SUFFIX,881903.com
 DOMAIN-SUFFIX,9cache.com
